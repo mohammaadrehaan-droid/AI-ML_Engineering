@@ -1,0 +1,1 @@
+139244586059921{"Date": "2024-10-13", "Expense": {"Food": 298.0, "Transport": 9283.0, "Shopping": 38923.0, "Education": 738.0, "Bills": 7382.0, "Others": 7823.0}, "Total Expense": 64447.0}
