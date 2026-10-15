@@ -1,0 +1,26 @@
+[
+    {
+        "text": "You won a free prize!",
+        "label": "Spam"
+    },
+    {
+        "text": "Hello, how are you?",
+        "label": "Not Spam"
+    },
+    {
+        "text": "You got 100000 rupees click on link to collect",
+        "label": "Spam"
+    },
+    {
+        "text": "Plz bring my notebook to school",
+        "label": "Not Spam"
+    },
+    {
+        "text": "I will meet you tomorrow",
+        "label": "Not spam"
+    },
+    {
+        "text": "Congragulation! Claim your gift free",
+        "label": "Spam"
+    }
+]
