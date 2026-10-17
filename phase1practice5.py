@@ -9,10 +9,9 @@ print("4. Search User")
 print("5. Delete User")
 print("6. Exit")
 
-
+ 
 def register_user():
     username = input("Setup Username: ").strip()
-
     if not username.isalnum():
         print("Invalid Username! Example: Ali123")
         return None
